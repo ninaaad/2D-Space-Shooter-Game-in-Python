@@ -1,0 +1,1 @@
+Hey Guys ! Tried making a 2D Space Shooter game using Pygame Library in Python. Implemented this to get introduced to and learn about the pygame library, so did it by seeing a youtube video. The video only included the base game, but I studied and added features like Main menu, Settings menu and Game Over menu for the game. Hope ya'll like it!
